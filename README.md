@@ -1,26 +1,25 @@
-
 <A name="toc1-4" title="ØMQ - The Guide" />
-ØMQ - The Guide
+ØMQ - La Guía
 ===============
 
-Written by Pieter Hintjens <ph@imatix.com>, CEO iMatix Corporation.
+Escrita por Pieter Hintjens <ph@imatix.com>, CEO iMatix Corporation.
 
-A ØMQ socket is what you get when you take a normal TCP socket, inject it with a mix of radioactive isotopes stolen from a secret Soviet atomic research project, bombard it with 1950-era cosmic rays, and put it into the hands of a drug-addled comic book author with a badly-disguised fetish for bulging muscles clad in spandex.  Yes, ØMQ sockets are the world-saving superheros of the networking world.
+Un socket ØMQ es lo que se consigue cuando se toma un socket TCP normal, se le inyecta una mezcla de isótopos radiactivos robados de un proyecto secreto de investigación atómica soviética, se le bombardean rayos cósmicos de los años 50, y se los pone en manos de un autor de cómics polidrogadicto con un fetiche mal disimulado por los músculos voluminosos vestidos de spandex. Sí, los sockets ØMQ son los superhéroes para salvar el mundo de las redes.
 
 <A name="toc2-34" title="License" />
-License
+Licencia
 -------
 
-The text of "ØMQ - The Guide" is copyright (c) 2010 Pieter Hintjens, and is licensed under the Creative Commons Attribution-Share Alike 3.0 License. The source code examples are licensed under MIT/X11 unless otherwise specified in the code. The tools in bin are placed into the public domain.
+El texto de "ØMQ - La Guía" pertenece a de (c) 2010 Pieter Hintjens, y está disponible bajo los términos de la licencia Attribution-Share Alike 3.0 de Creative Commons. Los ejemplos de código fuente están licenciados bajo MIT/X11 a menos que se especifique lo contrario en el código. Las herramientas en bin son de dominio público.
 
 <A name="toc2-40" title="Contributions" />
-Contributions
+Contribucions
 -------------
 
-All contributions to the Guide example source code is governed by the [C4 process](http://rfc.zeromq.org/spec:16).
+Todas las contribuciones al código fuente de ejemplo Guía se rige por el [proceso C4](http://rfc.zeromq.org/spec:16).
 
 <A name="toc2-46" title="Thanks" />
-Thanks
+Gracias
 ------
 
-Thanks to all the contributors, listed in CONTRIBUTORS.
+Gracias a todos los colaboradores, que se enumeran en CONTRIBUTORS.
